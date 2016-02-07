@@ -3,4 +3,5 @@ An OpenLRS compatible PPM receiver. Very minimal design. Uses internal clock on 
 
 Can be found on OSH Park at https://oshpark.com/shared_projects/8gSZM9lk.
 
-<a href="https://oshpark.com/shared_projects/8gSZM9lk"><img src="https://a800d827b6de8403a51e-6ffc2e718631809086ea40332b2055f7.ssl.cf1.rackcdn.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
+<img src="https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/bebed3b04b8d52c13ae3f9897465495f.png" alt="Bottom View">
+<img src="https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/6791c58d3359f19c493cc0d20b34c80c.png" alt="Top View">
